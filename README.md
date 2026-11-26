@@ -25,3 +25,7 @@ The bundle includes snapshot v157 and 329 executable rules. Some tasks remain un
 AI agents developed this solver under human direction. We used problems from Demidovich's calculus collection to identify reusable mathematical rules, implement them, and test the solver on new inputs.
 
 The released solver runs locally without an AI model.
+
+## Development usage
+
+The development logs record 32,514 AI calls and 5,640,661,958 tokens (64,466,997 uncached input, 5,555,276,032 cached input, and 20,918,929 output). The estimated development cost at standard OpenAI API rates was **$3,152.59**. [API pricing](https://developers.openai.com/api/docs/pricing)
