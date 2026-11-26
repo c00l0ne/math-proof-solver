@@ -1,0 +1,2 @@
+# Preserve exact Python bytes for replay verification.
+*.py -text
