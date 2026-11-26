@@ -19,3 +19,9 @@ Then run:
     python -B -X utf8 run.py replay demo-batch/nth-derivative.json
 
 The bundle includes snapshot v157 and 329 executable rules. Some tasks remain unresolved.
+
+## How it was built
+
+AI agents developed this solver under human direction. We used problems from Demidovich's calculus collection to identify reusable mathematical rules, implement them, and test the solver on new inputs.
+
+The released solver runs locally without an AI model.
