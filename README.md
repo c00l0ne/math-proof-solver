@@ -22,7 +22,7 @@ The bundle includes snapshot v157 and 329 executable rules. Some tasks remain un
 
 ## How it was built
 
-AI agents developed this solver under human direction. We used problems from Demidovich's calculus collection to identify reusable mathematical rules, implement them, and test the solver on new inputs.
+AI agents using `gpt-6-astra`, `gpt-6.2-astra`, `gpt-6.1-sol`, and `gpt-6.2-sol` developed this solver under human direction. We used problems from Demidovich's calculus collection to identify reusable mathematical rules, implement them, and test the solver on new inputs.
 
 The released solver runs locally without an AI model.
 
